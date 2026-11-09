@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 567 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+(ROHIT VERMA) '
+(Email: rohit.verma@example.com | Phone: +91-9870001001 | Location: Noida) '
+() '
+(SUMMARY) '
+(Senior Java Engineer with 6.0 years of relevant industry experience.) '
+() '
+(SKILLS) '
+(Java, Spring Boot, Microservices, Kafka) '
+() '
+(EXPERIENCE) '
+(Senior Java Engineer | Tech Enterprise Solutions | Jan 2020 - Present) '
+(- Implemented core backend features using Java.) '
+(- Maintained SLA standards and participated in code reviews.) '
+() '
+(DETAILS) '
+(Total Experience: 6.0 years) '
+(Notice Period: 45 days) '
+() '
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000859 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+929
+%%EOF

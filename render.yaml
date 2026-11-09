@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: shortlist
+    runtime: docker
+    plan: starter
+    region: oregon
+    healthCheckPath: /api/health
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: ENV
+        value: production
+      - key: SEED_DEMO_DATA
+        value: "true"
+      - key: JWT_SECRET
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ORIGINS
+        value: ""

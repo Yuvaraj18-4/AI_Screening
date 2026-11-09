@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1188 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+14 TL
+(RITIKA BANSAL) '
+(Email: ritika.bansal@example.com | Phone: +91-9876543210 | Location: Noida, UP) '
+() '
+(PROFESSIONAL SUMMARY) '
+(Senior Java Developer with 6.5 years of experience architecting distributed backend services, Spring Boot microservices, and event-driven data streaming pipelines.) '
+() '
+(SKILLS) '
+(Java 17, Spring Boot, Spring Cloud, Microservices, Kafka, Docker, Kubernetes, PostgreSQL, AWS, Redis) '
+() '
+(WORK EXPERIENCE) '
+(Lead Backend Engineer | FinTech Innovations, Noida | Jan 2021 - Present) '
+(- Designed and implemented scalable Spring Boot microservices processing 15M transactions daily.) '
+(- Built high-throughput Kafka streaming pipelines and optimized PostgreSQL database queries.) '
+(- Deployed containerized applications to Kubernetes clusters with CI/CD automation.) '
+() '
+(Software Engineer | Global Core Systems, Delhi | Jun 2018 - Dec 2020) '
+(- Developed RESTful APIs using Java and Spring Framework.) '
+(- Implemented Redis caching layers reducing latency by 45%.) '
+() '
+(EDUCATION & DETAILS) '
+(B.Tech in Computer Science, 2018) '
+(Notice Period: 60 days) '
+(Current CTC: 24 LPA | Expected CTC: 30 LPA) '
+() '
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001481 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1551
+%%EOF
